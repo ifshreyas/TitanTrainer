@@ -6,6 +6,10 @@ Titan Trainer is designed with clean architecture, modular systems, and maintain
 
 ---
 
+## Important 
+
+- Add the Data Folder within the scripts folder of your Grand Theft Auto V directory .
+
 ## Features
 
 - Modern LemonUI interface
